@@ -1,4 +1,4 @@
-# bear-page
+# ice-bear-forever.github.io
 just go to the damn [site](ice-bear-forever.github.io)
 ## license
 copyright (c) 2020 bear.
